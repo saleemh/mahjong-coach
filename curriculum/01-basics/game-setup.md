@@ -19,6 +19,37 @@ Setting up a mahjong game properly is an important ritual that creates the found
 - Chips or counting sticks (for tracking points)
 - Timer (for timed games)
 
+### Using American Mahjong Tiles for Chinese Classical
+
+**If you have an American Mahjong set**, you can adapt it for Chinese Classical play!
+
+**What to remove:**
+- **All Joker tiles** (American sets typically have 8 jokers) - Remove completely
+- **Extra tiles** if any (some American sets have 152+ tiles)
+
+**What to keep:**
+- All suited tiles: Bamboo (Bams), Characters (Craks), Dots (1-9 of each, 4 copies) = 108 tiles
+- All honor tiles: 4 Winds + 3 Dragons (4 copies each) = 28 tiles
+- Flowers and Seasons = 8 tiles
+- **Total: 144 tiles**
+
+**How to verify:**
+```
+Count your tiles after removing jokers:
+✓ Bamboo: 36 tiles (1-9, four of each)
+✓ Characters: 36 tiles (1-9, four of each)
+✓ Dots: 36 tiles (1-9, four of each)
+✓ Winds: 16 tiles (E-S-W-N, four of each)
+✓ Dragons: 12 tiles (Red-Green-White, four of each)
+✓ Flowers: 4 tiles
+✓ Seasons: 4 tiles
+= 144 tiles total ✓
+```
+
+**Storage tip:** Keep the jokers in the box - you can use them for American Mahjong later if you want to learn that variant!
+
+**Note:** American tiles work perfectly for Chinese Classical - the core tiles are identical. The only difference is American rules use jokers as wildcards, which Chinese Classical doesn't use.
+
 ## Step-by-Step Setup
 
 ### Step 1: Determine Seating Positions
